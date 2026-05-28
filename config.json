@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorppdate",
+        "uuid": 19793117,
+        "checksum": "c25119"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
